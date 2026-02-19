@@ -1,0 +1,9 @@
+Set sum = 0
+Set counter = 1
+
+Repeat until counter > 10:
+    Input num
+    If sum % 2 == 0:
+        sum = sum + num
+    counter = counter + 1
+
